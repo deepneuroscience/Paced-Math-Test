@@ -5,8 +5,8 @@ Mathematics Test as a mental stress-induction task (in Matlab): DeepBreath - Ope
 
 
 
-* Run TASK A: Paced-math-test-A.m: Easy (Counting down)
-* Run TASK B: Paced-math-test-B.m: Difficult (Subtracting a multi-digit number by a multi-digit number repeatedly)
++ Run TASK A: Paced-math-test-A.m: Easy (Counting down)
++ Run TASK B: Paced-math-test-B.m: Difficult (Subtracting a multi-digit number by a multi-digit number repeatedly)
 
 
 Environment: Matlab 2015b
