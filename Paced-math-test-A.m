@@ -1,9 +1,6 @@
 %% Copyright Information
 % Copyright (c) 12-March-2017 by Youngjun Cho
-%
-% * Ph.D Candidate, UCLIC, Faculty of Brain Sciences, University College London (UCL)
-% * MSc in Robotics, BSc in ICT
-% * Email: youngjun.cho.15@ucl.ac.uk
+% 
 % 
 
 
